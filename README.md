@@ -1,5 +1,7 @@
 # Bitcoin 24H Dashboard 📊
 
+https://deluxe-macaron-c045bf.netlify.app/
+
 A simple, client-side Bitcoin dashboard displaying:
 
 - 24H BTC trading volume
